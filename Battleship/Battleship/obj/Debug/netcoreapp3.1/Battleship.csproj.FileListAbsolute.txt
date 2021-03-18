@@ -1,0 +1,16 @@
+P:\Projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.exe
+P:\Projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.deps.json
+P:\Projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.json
+P:\Projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.runtimeconfig.dev.json
+P:\Projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.dll
+P:\Projects\Battleship\Battleship\bin\Debug\netcoreapp3.1\Battleship.pdb
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.csprojAssemblyReference.cache
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.PlayerMove_Lists.resources
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.Properties.Resources.resources
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.GenerateResource.cache
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfoInputs.cache
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.AssemblyInfo.cs
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.csproj.CoreCompileInputs.cache
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.dll
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.pdb
+P:\Projects\Battleship\Battleship\obj\Debug\netcoreapp3.1\Battleship.genruntimeconfig.cache
